@@ -1,0 +1,62 @@
+[
+  {
+    "firstName": "Иван",
+    "lastName": "Иванов",
+    "address": "г.Москва, ул. Алиева, 1",
+    "phoneNumber": "812 123-1234"
+  },
+  {
+    "firstName": "Илья",
+    "lastName": "Петров",
+    "address": "г.Тула, ул. Ленина, 1",
+    "phoneNumber": "812 123-1234"
+  },
+  {
+    "firstName": "Рома",
+    "lastName": "Никрасов",
+    "address": "г.СПб, ул. Даля, 43",
+    "phoneNumber": "812 123-1234"
+  },
+  {
+    "firstName": "Александр",
+    "lastName": "Нестеров",
+    "address": "г.Москва, ул. Ключивая, 4",
+    "phoneNumber": "812 123-1234"
+  },
+  {
+    "firstName": "Алексей",
+    "lastName": "Воля",
+    "address": "г.Москва, ул. Зелёная, 21",
+    "phoneNumber": "812 123-1234"
+  },
+  {
+    "firstName": "Павел",
+    "lastName": "Нилов",
+    "address": "г.Москва, ул. Грибная, 14",
+    "phoneNumber": "812 123-1234"
+  },
+  {
+    "firstName": "Сергей",
+    "lastName": "Матроскин",
+    "address": "г.СПб, ул. Резная, 27",
+    "phoneNumber": "812 123-1234"
+  },
+  {
+    "firstName": "Виктор",
+    "lastName": "Гарков",
+    "address": "г.Москва, ул. Речная, 12",
+    "phoneNumber": "812 123-1234"
+  },
+  {
+    "firstName": "Владимир",
+    "lastName": "Макаров",
+    "address": "г.Рязань, ул. Дорожная, 14",
+    "phoneNumber": "822 123-1234"
+  },
+  {
+  "firstName": "Николай",
+  "lastName": "Волошин",
+  "address": "г.Москва, ул. Западная, 7а",
+  "phoneNumber": "822 123-1234"
+}
+]
